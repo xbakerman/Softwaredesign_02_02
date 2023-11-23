@@ -1,5 +1,5 @@
-Computer Name: LAPTOP-UC0QQAVI
-Date of Test: 2023-11-23 12:08:31
-Bubble Sort Time: 7.969192 seconds
-Quick Sort Time: 0.015785 seconds
+Computer Name: DESKTOP-53HLUVJ
+Date of Test: 2023-11-23 12:13:35
+Bubble Sort Time: 6.054857 seconds
+Quick Sort Time: 0.014496 seconds
 
